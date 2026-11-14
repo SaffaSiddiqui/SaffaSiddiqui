@@ -79,11 +79,14 @@ I'm a developer from Karachi, Pakistan, who loves building practical software wi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaffaSiddiqui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaffaSiddiqui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/SaffaSiddiqui?style=for-the-badge&logo=github&color=0A66C2" alt="Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0A66C2/SaffaSiddiqui" alt="Contribution graph"/>
 </p>
 
 ---
