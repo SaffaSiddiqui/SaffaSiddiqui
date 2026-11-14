@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Saffa Siddiqui 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/main/assets/banner.svg" alt="Hi, I'm Saffa Siddiqui" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/SaffaSiddiqui">
@@ -76,12 +78,6 @@ I'm a developer from Karachi, Pakistan, who loves building practical software wi
 | 🐍 [**Snake Game**](https://github.com/SaffaSiddiqui/snake-game) | Classic snake game built from scratch. | Python |
 | 🔢 [**Number Guessing Game**](https://github.com/SaffaSiddiqui/Number-Gassing-Game-in-python) | Interactive number guessing game in the terminal. | Python |
 | 📚 [**Python Programming Notes**](https://github.com/SaffaSiddiqui/Python-Programming-Language--Notes) | Organized notes covering Python fundamentals, handy for learners. | Python |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center"> <img src="https://img.shields.io/github/followers/SaffaSiddiqui?style=for-the-badge&logo=github&color=0A66C2" alt="Followers"/> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake.svg"> <img alt="Snake animation" src="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake.svg"> </picture> </p>
 
 ---
 
