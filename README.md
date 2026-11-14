@@ -81,13 +81,7 @@ I'm a developer from Karachi, Pakistan, who loves building practical software wi
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SaffaSiddiqui?style=for-the-badge&logo=github&color=0A66C2" alt="Followers"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0A66C2/SaffaSiddiqui" alt="Contribution graph"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/SaffaSiddiqui?style=for-the-badge&logo=github&color=0A66C2" alt="Followers"/> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake.svg"> <img alt="Snake animation" src="https://raw.githubusercontent.com/SaffaSiddiqui/SaffaSiddiqui/output/github-contribution-grid-snake.svg"> </picture> </p>
 
 ---
 
